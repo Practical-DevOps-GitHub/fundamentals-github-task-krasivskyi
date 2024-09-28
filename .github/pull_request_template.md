@@ -16,8 +16,3 @@
 - [ ] Do we need to implement analytics?
 - [ ] Will this be part of a product update? If yes, please write one phrase about this update:  
   <!-- One phrase description of the update if applicable -->
-
-## Testing
-
-<!-- Describe how you have tested the changes and what testing was done. -->
-- Include unit tests and manual testing steps.
